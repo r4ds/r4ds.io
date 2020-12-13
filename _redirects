@@ -1,7 +1,14 @@
+# Main
 /join         https://join.slack.com/t/rfordatascience/shared_invite/zt-fehdgdo3-mQK182iIk5Q7TIAy58Vgeg
-/calendar     https://calendar.google.com/calendar/embed?src=u9rkjvvr9nlr560qor3aro5clc%40group.calendar.google.com
 /mentordash   https://r4dscommunity.shinyapps.io/mentordash
-/events       https://calendar.google.com/calendar/embed?src=4qov4iqi3cgjogka2nq3k1uhtg@group.calendar.google.com
 /youtube      https://www.youtube.com/R4DSOnlineLearningCommunity
+/clubs        https://join.slack.com/t/rfordatascience/shared_invite/zt-fehdgdo3-mQK182iIk5Q7TIAy58Vgeg
+
+# Calendars
+/calendar     https://calendar.google.com/calendar/embed?src=u9rkjvvr9nlr560qor3aro5clc%40group.calendar.google.com
+/events       https://calendar.google.com/calendar/embed?src=4qov4iqi3cgjogka2nq3k1uhtg@group.calendar.google.com
+
+# Legal
 /conduct      https://www.rfordatasci.com/conduct/
-/             http://rfordatasci.com
+/privacy      https://www.rfordatasci.com/privacy/
+/license      https://www.rfordatasci.com/license/
