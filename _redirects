@@ -8,5 +8,8 @@
 /calendar     https://calendar.google.com/calendar/embed?src=u9rkjvvr9nlr560qor3aro5clc%40group.calendar.google.com
 /events       https://calendar.google.com/calendar/embed?src=4qov4iqi3cgjogka2nq3k1uhtg@group.calendar.google.com
 
+# Repos, etc
+/tmwr         https://r4ds.github.io/bookclub-tmwr/
+
 # Fall-through
 /*            https://www.rfordatasci.com/:splat
