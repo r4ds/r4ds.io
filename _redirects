@@ -10,6 +10,7 @@
 
 # Repos, etc
 /tmwr         https://r4ds.github.io/bookclub-tmwr/
+/dsieur       https://r4ds.github.io/bookclub-dsieur/
 
 # Fall-through
 /*            https://www.rfordatasci.com/:splat
