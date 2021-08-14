@@ -10,7 +10,8 @@
 
 # Repos, etc
 /dsieur       https://r4ds.github.io/bookclub-dsieur/
-/ggplot2       https://r4ds.github.io/bookclub-ggplot2/
+/epgs         https://r4ds.github.io/bookclub-epgs/
+/ggplot2      https://r4ds.github.io/bookclub-ggplot2/
 /mshiny       https://r4ds.github.io/bookclub-mshiny/
 /ps4ds        https://r4ds.github.io/bookclub-ps4ds/
 /r4ds         https://r4ds.github.io/bookclub-r4ds/
