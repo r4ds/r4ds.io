@@ -9,11 +9,12 @@
 /events       https://calendar.google.com/calendar/embed?src=4qov4iqi3cgjogka2nq3k1uhtg@group.calendar.google.com
 
 # Repos, etc
-/tmwr         https://r4ds.github.io/bookclub-tmwr/
 /dsieur       https://r4ds.github.io/bookclub-dsieur/
+/ggplot2       https://r4ds.github.io/bookclub-ggplot2/
 /mshiny       https://r4ds.github.io/bookclub-mshiny/
-/r4ds         https://r4ds.github.io/bookclub-r4ds/
 /ps4ds        https://r4ds.github.io/bookclub-ps4ds/
+/r4ds         https://r4ds.github.io/bookclub-r4ds/
+/tmwr         https://r4ds.github.io/bookclub-tmwr/
 
 # Fall-through
 /*            https://www.rfordatasci.com/:splat
