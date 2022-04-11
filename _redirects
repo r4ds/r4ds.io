@@ -9,7 +9,7 @@
 /calendar     https://calendar.google.com/calendar/embed?src=u9rkjvvr9nlr560qor3aro5clc%40group.calendar.google.com
 /events       https://calendar.google.com/calendar/embed?src=4qov4iqi3cgjogka2nq3k1uhtg@group.calendar.google.com
 
-# Repos, etc
+# Book club notes
 /dsieur       https://r4ds.github.io/bookclub-dsieur/
 /epgs         https://r4ds.github.io/bookclub-epgs/
 /ggplot2      https://r4ds.github.io/bookclub-ggplot2/
@@ -23,6 +23,9 @@
 /tidytext     https://r4ds.github.io/bookclub-tidytext/
 /tmwr         https://r4ds.github.io/bookclub-tmwr/
 /tmwr_es      https://r4ds.github.io/bookclub-tmwr_es/
+
+# Tests and such
+/shinyslack   https://r4dscommunity.shinyapps.io/shinyslack/
 
 # Decks, etc
 /introdeck    https://docs.google.com/presentation/d/12LvBBn8gCMeEaQMqQCpdNKkqP218qHBk6u53AbWYrZQ/edit?usp=sharing
