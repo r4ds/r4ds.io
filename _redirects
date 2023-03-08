@@ -46,7 +46,8 @@
 /tmwr         https://r4ds.github.io/bookclub-tmwr/
 /tmwr_es      https://r4ds.github.io/bookclub-tmwr_es/
 
-# Tests and such
+# Packages and Tests
+/cookies        https://r4ds.github.io/cookies/
 /cookiesdemo    https://r4dscommunity.shinyapps.io/cookies/
 /cookiestest    https://r4dscommunity.shinyapps.io/cookiestest/
 /mentordashtest https://r4dscommunity.shinyapps.io/mentordashtest
